@@ -18,5 +18,4 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 - [Twitter](www.twitter.com/JuanSarsotti)
 - [Facebook](https://www.facebook.com/cocosar92/)
 - [Email](mailto:juansarsotti@gmail.com)
-*Me robaron el teléfono recientemente por lo que no puedo recibir llamadas, pero recibo whatsapp*
-- [Whatsapp](https://wa.me/005493415969169).
+- [Whatsapp](https://wa.me/005493415892354).
