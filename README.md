@@ -23,21 +23,21 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 # Proyectos y trabajos: 
 
 #### Tema propio creado para Gymnasio - Wordpress
-![Wordpress project](/cocosar/cocosar/Gymfitness-mini.png "Wordpress theme for a Gym")
+![Wordpress project](https://github.com/cocosar/cocosar/blob/master/Gymfitness-mini.png "Wordpress theme for a Gym")
 
 [Deploy](http://gymfitness-juan.epizy.com/)
 #### Componente individual 
-![CSS Work](/cocosar/cocosar/componente-mini.JPG "Componente")
+![CSS Work](https://github.com/cocosar/cocosar/blob/master/componente-mini.JPG "Componente")
 
 [Repositorio](https://github.com/cocosar/cardcomponent) || 
 [Deploy](https://cardcomponent.vercel.app/)
 #### Social Media Dashboard
-![SocialMedia Dashboard](/cocosarcocosar//socialdash-mini.JPG "Social Media Dashboard")
+![SocialMedia Dashboard](https://github.com/cocosar/cocosar/blob/master/socialdash-mini.JPG "Social Media Dashboard")
 
 [Repositorio](https://github.com/cocosar/socialmedia-dashboard) || 
 [Deploy](https://socialmedia-dashboard-blush.vercel.app/)
 #### Frente de app de almacenamiento
-![Fylo project](/cocosarcocosar//fylo-mini.JPG "Fylo Storage")
+![Fylo project](https://github.com/cocosar/cocosar/blob/master/fylo-mini.JPG "Fylo Storage")
 
 [Repositorio](https://github.com/cocosar/fylo) || 
 [Deploy](https://fourcardchallenge.vercel.app/)
