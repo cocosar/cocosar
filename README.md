@@ -19,3 +19,29 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 - [Facebook](https://www.facebook.com/cocosar92/)
 - [Email](mailto:juansarsotti@gmail.com)
 - [Whatsapp](https://wa.me/005493415892354).
+
+# Proyectos y trabajos: 
+
+#### Tema propio creado para Gymnasio - Wordpress
+![Wordpress project](/Gymfitness-mini.png "Wordpress theme for a Gym")
+
+[Deploy](http://gymfitness-juan.epizy.com/)
+#### Componente individual 
+![CSS Work](/componente-mini.JPG "Componente")
+
+[Repositorio](https://github.com/cocosar/cardcomponent) ||  
+[Deploy](https://cardcomponent.vercel.app/)
+#### Social Media Dashboard
+![SocialMedia Dashboard](/socialdash-mini.JPG "Social Media Dashboard")
+
+[Repositorio](https://github.com/cocosar/socialmedia-dashboard) || 
+[Deploy](https://socialmedia-dashboard-blush.vercel.app/)
+#### Frente de app de almacenamiento
+![Fylo project](/fylo-mini.JPG "Fylo Storage")
+
+[Repositorio](https://github.com/cocosar/fylo) || 
+[Deploy](https://fourcardchallenge.vercel.app/)
+
+### Mi Landing Page
+
+[Visitar](https://landingpage-kohl.vercel.app/)
