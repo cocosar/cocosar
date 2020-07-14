@@ -29,7 +29,7 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 #### Componente individual 
 ![CSS Work](/componente-mini.JPG "Componente")
 
-[Repositorio](https://github.com/cocosar/cardcomponent) ||  
+[Repositorio](https://github.com/cocosar/cardcomponent) || 
 [Deploy](https://cardcomponent.vercel.app/)
 #### Social Media Dashboard
 ![SocialMedia Dashboard](/socialdash-mini.JPG "Social Media Dashboard")
