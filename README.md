@@ -27,25 +27,36 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
   <img src="https://github.com/cocosar/cocosar/blob/master/Gymfitness-mini.png" alt="Wordpress theme for a Gym"/>
 </p>
 
-![Wordpress project](https://github.com/cocosar/cocosar/blob/master/Gymfitness-mini.png "Wordpress theme for a Gym")
-
 [Deploy](http://gymfitness-juan.epizy.com/)
 #### Componente individual 
-![CSS Work](https://github.com/cocosar/cocosar/blob/master/componente-mini.JPG "Componente")
+<p align="center">
+  <img src="https://github.com/cocosar/cocosar/blob/master/componente-mini.JPG" alt="Wordpress theme for a Gym"/>
+</p>
+
 
 [Repositorio](https://github.com/cocosar/cardcomponent) || 
 [Deploy](https://cardcomponent.vercel.app/)
 #### Social Media Dashboard
-![SocialMedia Dashboard](https://github.com/cocosar/cocosar/blob/master/socialdash-mini.JPG "Social Media Dashboard")
+<p align="center">
+  <img src="https://github.com/cocosar/cocosar/blob/master/socialdash-mini.JPG" alt="Wordpress theme for a Gym"/>
+</p>
+
 
 [Repositorio](https://github.com/cocosar/socialmedia-dashboard) || 
 [Deploy](https://socialmedia-dashboard-blush.vercel.app/)
 #### Frente de app de almacenamiento
-![Fylo project](https://github.com/cocosar/cocosar/blob/master/fylo-mini.JPG "Fylo Storage")
+<p align="center">
+  <img src="https://github.com/cocosar/cocosar/blob/master/fylo-mini.JPG" alt="Wordpress theme for a Gym"/>
+</p>
+
 
 [Repositorio](https://github.com/cocosar/fylo) || 
 [Deploy](https://fourcardchallenge.vercel.app/)
 
+<p align="center">
+  
 ### Mi Landing Page
 
 [Visitar](https://landingpage-kohl.vercel.app/)
+
+</p>
