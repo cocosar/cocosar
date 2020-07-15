@@ -23,6 +23,9 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 # Proyectos y trabajos: 
 
 #### Tema propio creado para Gymnasio - Wordpress
+<p align="center">
+  <img src="https://github.com/cocosar/cocosar/blob/master/Gymfitness-mini.png" alt="Wordpress theme for a Gym"/>
+</p>
 ![Wordpress project](https://github.com/cocosar/cocosar/blob/master/Gymfitness-mini.png "Wordpress theme for a Gym")
 
 [Deploy](http://gymfitness-juan.epizy.com/)
