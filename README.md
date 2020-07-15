@@ -53,10 +53,7 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 [Repositorio](https://github.com/cocosar/fylo) || 
 [Deploy](https://fourcardchallenge.vercel.app/)
 
-<p align="center">
-  
+
 ### Mi Landing Page
 
 [Visitar](https://landingpage-kohl.vercel.app/)
-
-</p>
