@@ -18,7 +18,6 @@ Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy ab
 - [Twitter](www.twitter.com/JuanSarsotti)
 - [Facebook](https://www.facebook.com/cocosar92/)
 - [Email](mailto:juansarsotti@gmail.com)
-- [Whatsapp](https://wa.me/005493415892354).
 
 # Proyectos y trabajos: 
 
