@@ -1,18 +1,15 @@
 # Juan José Sarsotti
 
 ###	❓	| ¿Quién Soy?
-- *Hola! 🙋🏽‍♂️ Soy un FrontEnd Developer en proceso de aprendizaje, aquí vas a ver los proyectos y trabajos que me encuentro desarrollando.*
+- *Hola! 🙋🏽‍♂️ Soy un FrontEnd Developer en constante proceso de aprendizaje, aquí vas a ver los proyectos y trabajos que me encuentro desarrollando.*
 
 ### 🏁	| Metas para este año:
-Tengo como meta aprender y adaptarme a los desafios que me propuso la vida este año:
--	Primero que nada y común a mucha gente, la adaptación (forzosa) a la pandemia en lo social.
--	Re-inserción laboral, ya qué me despidieron por la crisis que trajo la misma pandemia.
--	Re-dirección de área en la cual desarrollar mis estudios y mi busqueda laboral, ya qué me encontraba trabajando en áreas de gerencia y administración.
--	Poder mantener  y aumentar (en calidad y cantidad) mis vinculos afectivos.
--	Entre otros muchos, los cuales con gusto te los puedo compartir ☕.
-
-### 🔎 | ¿Qué busco?
-Estoy buscando desarrollar mi experiencia en el ambiente IT, por lo que estoy abierto a nuevas ideas, proyectos colaborativos, oportunidades freelance o en relación de dependencia.
+Este 2021 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría, entre ellas conseguir trabajo. Mis nuevas metas son:
+- Aprender más sobre las tecnologías que aplico en mi día a día como programador.
+- Ampliar mis conocimientos sobre Backend.
+- Poder estabilizarme en el trabajo y a la vez poder seguir alimentando y mantener las ganas de seguir aprendiendo.
+- Eliminar de mi dieta el consumo animal.
+- Entre tantos otros, que con gusto los comparto...
 
 ### ¿Hablamos?  💻
 - [Twitter](www.twitter.com/JuanSarsotti)
