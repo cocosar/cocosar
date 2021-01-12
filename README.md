@@ -11,7 +11,7 @@ Este 2021 mis metas cambiaron un poco respecto al año pasado, ya que logré la 
 - Eliminar de mi dieta el consumo animal.
 - Entre tantos otros, que con gusto los comparto...
 
-### ¿Hablamos?  💻
+### 💻 | ¿Hablamos?  
 - [Twitter](www.twitter.com/JuanSarsotti)
 - [Facebook](https://www.facebook.com/cocosar92/)
 - [Email](mailto:juansarsotti@gmail.com)
