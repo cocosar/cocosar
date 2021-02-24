@@ -1,7 +1,7 @@
 # Juan José Sarsotti
 
 ###	❓	| ¿Quién Soy?
-- *Hola! 🙋🏽‍♂️ Soy un FrontEnd Developer en constante proceso de aprendizaje, aquí vas a ver los proyectos y trabajos que me encuentro desarrollando.*
+- *Hola! 🙋🏽‍♂️ Soy un QA Engineer y FrontEnd Developer en constante proceso de aprendizaje, aquí vas a ver los proyectos y trabajos que me encuentro desarrollando.*
 
 ### 🏁	| Metas para este año:
 Este 2021 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría, entre ellas conseguir trabajo. Mis nuevas metas son:
