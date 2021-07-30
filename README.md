@@ -1,15 +1,34 @@
 # Juan José Sarsotti
 
 ###	❓	| ¿Quién Soy?
-- *Hola! 🙋🏽‍♂️ Soy un QA Engineer y FrontEnd Developer en constante proceso de aprendizaje, aquí vas a ver los proyectos y trabajos que me encuentro desarrollando.*
+- *Hola! 🙋🏽‍♂️ Soy un Frontend Developer y Quality Assurance Tester en constante proceso de aprendizaje, aquí vas a ver los proyectos y trabajos que me encuentro desarrollando. (Los que puedo mostrar por mi NDA)* 😅
+
 
 ### 🏁	| Metas para este año:
 Este 2021 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría, entre ellas conseguir trabajo. Mis nuevas metas son:
 - Aprender más sobre las tecnologías que aplico en mi día a día como programador.
 - Ampliar mis conocimientos sobre Backend.
 - Poder estabilizarme en el trabajo y a la vez poder seguir alimentando y mantener las ganas de seguir aprendiendo.
-- Eliminar de mi dieta el consumo animal.
 - Entre tantos otros, que con gusto los comparto...
+
+### 🧠 | ¿Qué sé?
+A continuación enlisto las tecnologías que estudié y <b>trabajé</b>.
+
+Enfocado a mis áreas de trabajo:
+- Wordpress
+- React
+- Angular
+- Cypress
+- Jmeter
+- OWASP ZAP
+
+Enfocado a herramientas de apoyo:
+- Docker
+- Express
+- Nodejs
+- MongoDB
+
+Entre otras...
 
 ### 💻 | ¿Hablamos?  
 - [Twitter](www.twitter.com/JuanSarsotti)
