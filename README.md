@@ -5,8 +5,8 @@
 
 
 ### 🏁	| Metas para este año:
-Este 2023 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría, entre ellas conseguir trabajo. Mis nuevas metas son:
-- Aprender más sobre PlayWright
+Este 2024 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría 😀. Mis nuevas metas son:
+- Aprender más sobre Inteligencia Artificial Generativa, Machine Learning y derivados
 - Adquirir más herramientas para lograr un flujo completo como consultor de calidad independiente 
 - Conocer sobre como incorporar la I.A. a herramientas para mejorar la productividad
 - Entre tantos otros, que con gusto los comparto...
@@ -14,25 +14,30 @@ Este 2023 mis metas cambiaron un poco respecto al año pasado, ya que logré la 
 ### 🧠 | ¿Qué sé?
 A continuación enlisto las tecnologías que estudié y <b>trabajé</b>.
 
-Enfocado a mis áreas de trabajo:
-- Wordpress
-- React
-- Angular
+Enfocadas al Testing 🧪:
+- Playwright
 - Cypress
 - Jmeter
 - Postman
 - Newman
 - Appium
-- Cucumber (preprocessor)
+- Cucumber (preprocesador)
 - Allure
 - OWASP ZAP
 
-Enfocado a herramientas de apoyo:
-- Docker
+Enfocada al desarrollo:
+- Wordpress
+- React
+- Angular
 - Express
 - Nodejs
+
+Enfocado a herramientas de apoyo/gestión:
+- Docker
 - Git
 - MongoDB
+- Jira
+- Jira plugins enfocadas al testing (X-ray, Zephyr, etc)
 
 Entre otras...
 
