@@ -5,7 +5,7 @@
 
 
 ### 🏁	| Metas para este año:
-Este 2024 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría 😀. Mis nuevas metas son:
+Este 2025 mis metas cambiaron un poco respecto al año pasado, ya que logré la mayoría 😀. Mis nuevas metas son:
 - Aprender más sobre Inteligencia Artificial Generativa, Machine Learning y derivados
 - Adquirir más herramientas para lograr un flujo completo como consultor de calidad independiente 
 - Conocer sobre como incorporar la I.A. a herramientas para mejorar la productividad
